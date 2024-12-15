@@ -20,5 +20,4 @@ public class Example1 {
 		driver.findElement(By.xpath("(//div[@class='card-body'])[1]")).click();
 		driver.close();
 	}
-
 }
